@@ -1,4 +1,4 @@
-# Archiver_Operating_Systems
+# CS 4375 Theory of Operating Systems
 Creating Archiver/Unarchiver for Operating Systems class.
 
 The Archiver function has multiple files as input and then it outputs a single file merging the contents of all those 
